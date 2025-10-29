@@ -1,0 +1,21 @@
+# DEC Certified submissions registry
+# (See comments above for field descriptions)
+submissions:
+  # Example:
+  # - team: data-dynamos
+  #   repo: https://github.com/data-dynamos/dec-certified
+  #   ref: dec-2025-final
+  #   title: Credit Risk Scorer
+  #   contact: @alex-fernandez
+  #   members: [@alex-fernandez, @mei-lin, @samir-k]
+  #   track: ML
+  #   notes: Uses sample data only; no secrets
+
+  # === Add your team’s entry BELOW this line ===
+  - team: <your-team-name>
+    repo: https://github.com/<you>/<your-repo>
+    ref: <tag-or-full-commit-sha>
+    title: <short-title>
+    contact: <@github-handle-or-email>
+    members: [<optional-list-of-members>]
+    notes: <optional-one-line>
